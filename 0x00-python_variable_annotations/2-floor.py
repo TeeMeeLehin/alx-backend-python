@@ -4,5 +4,5 @@ import math
 
 
 def floor(n: float) -> int:
-    """ basic addition function """
+    """ basic floor function """
     return (math.floor(n))
