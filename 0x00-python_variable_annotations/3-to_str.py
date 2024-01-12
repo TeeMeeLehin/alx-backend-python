@@ -5,4 +5,4 @@ import math
 
 def to_str(n: float) -> str:
     """ basic stringify function """
-    return (str(n))
+    return str(n)
