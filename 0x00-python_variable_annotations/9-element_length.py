@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-from typing import Callable
 """ Basic Annotations """
 from typing import Iterable, Sequence, Tuple, List
 
